@@ -32,7 +32,6 @@ class PalindromeFinder:
             self.last_palindrome = -1
             self.last_ordinal = -1
     
-    
 
     def parse_palindrome_info(self, palindrome_info):
         info_parts = palindrome_info.split(" ")
